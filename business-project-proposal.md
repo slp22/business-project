@@ -78,19 +78,19 @@
     * Patients have broadband access at home to attend telehealth video visits.
     * Physicians can assess patients via telemedicine as well as an in-person visit.
     * Physicians can request patients see them in person if they cannot assess their health well via telemedicine.
-    * Patients still need to overcome challenges that contribute to missed appointments <br/>
+    * Patients still need to overcome challenges that contribute to missed appointments
 * What are the risks to the approach you’ve identified? <br/>
-    *    <br/>
+    * ...
 
 ## Tools
 * How do you intend to meet the tools requirement of the project?<br/>
-    * Excel, Tableau <br/>
-* Are you planning in advance to need or use additional tools beyond those required?<br/>
-    * None at this time.<br/>
+    * Excel, Tableau
+* Are you planning in advance to need or use additional tools beyond those required?
+    * None at this time.
 
 ## MVP Goal
 * What would a minimum viable product (MVP)look like for this project?<br/>
-    * Data comparisons ...<br/> 
-    * One subset ...<br/>
-    * One viz ...<br/>
+    * Data comparisons ...
+    * One subset ...
+    * One viz ...
  
