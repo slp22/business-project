@@ -1,6 +1,6 @@
 Business Fundamentals | Deliverables
 
-# Expanding Telehealth to Offset Costs of Missed Appointments  
+# Expanding Telemedicine to Offset Cost of Missed Appointments  
 
 * Slides: [business-telehealth-slides]()
 * Summary: [business-telehealth-summary]()
