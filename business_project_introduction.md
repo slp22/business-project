@@ -58,5 +58,5 @@ Additionally, students may meet with an instructor for a scoping meeting
 * Written description, presentation slides PDF, Excel/Google Sheets Workbook, Tableau Workbook
 
   * Note: Students must submit Excel/Google Sheets workbook(s) containing their analyses, as well as Tableau workbook(s) containing project visualizations. Coding in Python/SQL is optional for this project, but should also be submitted if used.
-  * See this sample format for a workbook-- raw data on one tab, cleaned data in another, a main summary page, a chart page, and other pages for other relevant analyses: Sample Workbook Setup_ Flex.xlsx (file will not render; click Download at the top right)
+  * See this sample format for a workbook-- raw data on one tab, cleaned data in another, a main summary page, a chart page, and other pages for other relevant analyses: Sample Workbook Setup_ Flex.xlsx
 * Project presentation
