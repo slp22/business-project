@@ -1,6 +1,6 @@
 #### Business Fundamentals | Project Proposal
 
-# Expanding Telehealth to Offset Costs of Missed Appointments 
+# Expanding Telemedicine to Offset Cost of Missed Appointments 
 
 ## Client
 * Who is your client and how will that client benefit from exploring this question or building this model/system?

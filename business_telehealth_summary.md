@@ -1,6 +1,6 @@
 Business Fundamentals | Summary
 
-# Expanding Telehealth to Offset Costs of Missed Appointments  
+# Expanding Telemedicine to Offset Cost of Missed Appointments 
 
 ## Abstract
 
@@ -10,7 +10,36 @@ Business Fundamentals | Summary
 
 **Business Opportunity**
 
-The COVID-19 pandemic and Medicare's temporary expansion of covered telehealth services accelerated the adoption of patients meeting with their doctor via phone or video. While this was crucial during the pandemic to help people access care without needing to take public transportation and congregate in medical waiting rooms, it may have opened an opportunity for medical practices to avoid the costs associated with patients missing their medical appointments. Unused 60-minute time-slots cost medical practices `$` 200 on average, costing the U.S. `$` 150 billion each year from missed appointments alone.
+The COVID-19 pandemic and Medicare's [temporary expansion of covered telehealth services](https://www.medicare.gov/coverage/telehealth) accelerated the adoption of patients meeting with their doctor via phone or video. While this was crucial during the pandemic to help people access care without needing to take public transportation and congregate in medical waiting rooms, it may have opened an opportunity for medical practices to avoid the costs associated with patients missing their medical appointments. Unused 60-minute time-slots cost medical practices `$` [200 on average](https://www.hcinnovationgroup.com/clinical-it/article/13008175/missed-appointments-cost-the-us-healthcare-system-150b-each-year), costing the U.S. `$` 150 billion each year from missed appointments alone.
+There is an opportunity for [patients who adopted telehealth](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7772717/) during the pandemic to continue using it.
+
+
+analysis of private claims data,
+we estimate that over 20% of all
+medical visits in the U.S. will be
+conducted via telehealth this year,
+representing $29 billion of medical services
+in 2020.
+Before the COVID-19 pandemic, only
+14% of Americans had done
+telemedicine at least once. The
+number of patients with a chronic
+condition was significantly higher, with
+35% reporting that they had engaged
+with their physician via telemedicine. 
+
+28% of Americans reported they feel
+telemedicine is the same or better quality
+of care when compared to in-person
+doctor visits, while 53% of those with a
+chronic illness feel it is the same or better.
+
+Physicians in Larger Metro Areas
+& East Coast States Are Using
+Telemedicine the Most
+
+https://c8y.doxcdn.com/image/upload/v1/Press%20Blog/Research%20Reports/2020-state-telemedicine-report.pdf
+
 
 **Solution Path**
 
