@@ -1,5 +1,4 @@
-#MadeAtMetis Business Fundamentals | Deliverables
-
+#MadeAtMetis | Business Fundamentals | Deliverables
 
 ## Expanding Telemedicine to Offset Cost of Missed Appointments  
 
